@@ -10,8 +10,7 @@ public class Main {
 		//bkm.Hallo();
 		//Hauptmenue haupt = new Hauptmenue();
 		//haupt.haupmenue_cocktails();
-		//
-		//TEST
+
 		
 	}
 	
