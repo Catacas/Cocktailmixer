@@ -11,7 +11,6 @@ public class Main {
 		//Hauptmenue haupt = new Hauptmenue();
 		//haupt.haupmenue_cocktails();
 
-		//hallo
 	}
 	
 
